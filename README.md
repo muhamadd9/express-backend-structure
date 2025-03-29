@@ -35,18 +35,16 @@ A professional, scalable, and well-organized backend folder structure for **Expr
    ```bash
    git clone https://github.com/yourusername/express-backend-structure.git
    cd express-backend-structure
-
+```
 ### 2. Install the dependencies:
 
 ```bash
 npm install
 ```
 
-### 3. Copy the `.env.example` file to `.env` and add your environment variables (e.g., MongoDB URI, JWT secret, etc.):
+### 3. Copy the `.env.example` file to `.env` and add your environment variables (e.g., MongoDB URI, JWT secret, etc.)
 
-```bash
-cp .env.example .env
-```
+
 ### 4. Start the application in development mode:
 
 ```bash
